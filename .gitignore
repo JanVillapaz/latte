@@ -1,0 +1,15 @@
+# Java
+/matcha/target/
+*.iml
+.mvn/
+*.class
+
+# Node.js
+/cappuccino/node_modules/
+/cappuccino/build/
+*.log
+
+# General
+.DS_Store
+.idea/
+.vscode/
