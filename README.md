@@ -132,7 +132,7 @@ Feel free to fork this repository and submit pull requests! Suggestions for impr
 
 ----
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](../latte/LICENSE) file for details.
 
 ----
 ## 🙋‍♀️ Author
