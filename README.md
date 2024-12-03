@@ -125,6 +125,7 @@ POST|`/api/savings-goals`|Set a new savings goal|
 - Add authentication for multiple users.
 - Enable exporting reports (PDF/CSV).
 - Add a mobile app version using React Native.
+- Add a dashboard that will project monthly expenses
 
 ----
 ## 🤝 Contributing
