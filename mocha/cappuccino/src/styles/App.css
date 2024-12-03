@@ -1,0 +1,28 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.navbar, .footer {
+  background-color: #004d99;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.navbar .links a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: white;
+}
+
+.navbar .links a:hover {
+  text-decoration: underline;
+}
