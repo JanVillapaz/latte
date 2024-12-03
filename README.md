@@ -99,7 +99,7 @@ npm start
 - PostgreSQL
 - Hibernate (JPA)
 - Spring Data JPA
--Spring Web (REST APIs)
+- Spring Web (REST APIs)
 
 ### Frontend:
 - React
