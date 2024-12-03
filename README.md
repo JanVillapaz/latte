@@ -9,7 +9,7 @@ A personal budget management system to track expenses, income, and savings goals
 latte/
 ├── matcha/            # Spring Boot backend
 ├── mocha/
-│   └──cappuccino/   # React frontend
+│   └──cappuccino/     # React frontend
 ├── .gitignore         # For Git version control
 ├── README.md          # Project documentation
 ├── LICENSE            # License file
