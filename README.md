@@ -7,11 +7,12 @@ A personal budget management system to track expenses, income, and savings goals
 ## 📂 Project Structure
 ```console
 latte/
-├── matcha/       # Spring Boot backend
-├── cappuccino/   # React frontend
-├── .gitignore    # For Git version control
-├── README.md     # Project documentation
-├── LICENSE       # license file
+├── matcha/            # Spring Boot backend
+├── mocha/
+│   └──cappuccino/   # React frontend
+├── .gitignore         # For Git version control
+├── README.md          # Project documentation
+├── LICENSE            # License file
 ```
 
 
