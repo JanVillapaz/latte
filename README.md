@@ -2,20 +2,6 @@
 
 A personal budget management system to track expenses, income, and savings goals, designed to help save for a condo. Built using **Spring Boot** for the backend and **React** for the frontend.
 
----
-
-## 📂 Project Structure
-```console
-latte/
-├── matcha/            # Spring Boot backend
-├── mocha/
-│   └──cappuccino/     # React frontend
-├── .gitignore         # For Git version control
-├── README.md          # Project documentation
-├── LICENSE            # License file
-```
-
-
 ### Backend (`matcha/`)
 - **Technology**: Spring Boot, Java 23, PostgreSQL.
 - **Features**:
@@ -23,7 +9,7 @@ latte/
     - Persistent storage with a relational database.
     - Data validation and business logic encapsulated in services.
 
-### Frontend (`cappuccino/`)
+### Frontend (`mocha/cappuccino/`)
 - **Technology**: React, Axios, Recharts (for data visualization).
 - **Features**:
     - Dynamic UI for tracking and visualizing budget data.
